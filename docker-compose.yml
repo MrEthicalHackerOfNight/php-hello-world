@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  app:
+    image: mrethicalhackerofnight/php-hello-world-app:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8081:80"
+    container_name: php_hello_app
