@@ -1,5 +1,6 @@
 # php-hello-world
 A simple hello-world for composer
+## for full step by step guide please refer to (documentation for intuji pdf)
 
 Step 1: Pull the Docker Image
 Open your terminal in Kali and run:
